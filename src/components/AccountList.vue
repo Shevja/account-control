@@ -207,7 +207,4 @@ onMounted(() => {
             </DataTable>
         </div>
     </section>
-    <pre>
-        {{ accounts }}
-    </pre>
 </template>
